@@ -7,6 +7,7 @@ return {
             "go",
             "composer",
             "php",
+            "toml",
             "julia",
             "java"
         }
